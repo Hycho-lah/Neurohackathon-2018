@@ -1,0 +1,11 @@
+goodNeurons: logical vector indicating neurons with > 1 Hz firing rate
+
+datStruct is a structure with each entry corresponding to a different reach
+	datStruct.amp: maximum amplitude for that reach
+	datStruct.vel: maximum velocity for that reach
+	datStruct.reaches
+	datStruct.t
+	datStruct.reachTime
+	datStruct.reachIdx
+	datStruct.jsPos
+	datStruct.neuralDat
